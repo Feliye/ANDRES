@@ -22,9 +22,11 @@ font-size: large;
 
 .fondo {
     background-image: url(d4.jpeg);
-    background-repeat: no-repeat;
+    background-repeat: no-repeat;  
+}
 
-    
-    
+.circulo {
+    color: whitesmoke;
+    text-align: unset;
     
 }
