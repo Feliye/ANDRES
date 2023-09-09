@@ -1,0 +1,57 @@
+
+.inputs {
+border-color: rgb(88, 174, 88);
+border-width: 3px;
+padding: 8px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: large;
+}
+
+.title {
+    background: rgb(141, 205, 141);
+    padding: 15px;
+    color: rgb(9, 141, 141);
+    border-radius: 40px;
+    border-style: solid;
+    border-color: black;
+    margin: auto;
+    text-align:left
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xxx-large;
+}
+
+.link {
+    text-align: left;
+    background: rgb(rgb(196, 151, 151), rgb(130, 170, 130), rgb(137, 137, 225));
+    padding: 5px;
+    color: rgb(231, 231, 178);
+    border-radius: 10px;
+    border-color: black;
+    font-size: x-large;
+}
+
+.back {
+    background-image: url(logo.jpg);
+    background-repeat: no-repeat;
+    background-position: left top;
+    margin-right: 200px;
+    background-attachment: fixed;
+}
+
+.option {
+    background: rgb(231, 231, 178);
+    padding: 5px;
+    color: rgb(141, 205, 141);
+    border-radius: 10px;
+    margin: auto;
+    text-align:left;
+    border-style: solid;
+    border-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+
+.space {
+    padding: 20px;
+    text-align: center;
+}
